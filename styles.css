@@ -1,0 +1,46 @@
+.card {
+  border: 1px solid #a8a8a8;
+  box-shadow: 5px 5px 20px #a8a8a8;
+  border-collapse: separate;
+  border-spacing: 5px;
+  width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+#title {
+  font-size: large;
+  font-weight: bold;
+}
+
+#nemoimage {
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.inner-box {
+  border: 1px solid #a8a8a8;
+  border-collapse: separate;
+  border-spacing: 20px;
+  max-width: 280px;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+.information{
+}
